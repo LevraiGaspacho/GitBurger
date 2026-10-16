@@ -13,3 +13,4 @@ Découvrez notre recette de hamburger maison.
 - Bacon
 - Fromage
 - Sauce barbecue
+- Oignons
